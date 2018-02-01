@@ -1,16 +1,17 @@
 # Angular5-HandsOn
 First Angular App
+
 Features
--> Animations
--> Service
--> Routing
--> Two-way Binding
--> Event Binding
+-> Animations<br>
+-> Service<br>
+-> Routing<br>
+-> Two-way Binding<br>
+-> Event Binding<br>
 
--> Bootstrap
--> Flexbox
--> <a href="facebook.com">Beautiful Colored Gradients</a>
+-> Bootstrap<br>
+-> Flexbox<br>
+-> Beautiful Colored Gradients<br>
 
--> Google Hosting (Firebase)
+-> Google Hosting (Firebase)<br>
 
 Link - https://gymexcercise-ff44d.firebaseapp.com

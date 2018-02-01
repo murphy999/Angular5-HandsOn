@@ -1,7 +1,7 @@
 # Angular5-HandsOn
 First Angular App
 
-Features
+Features<br>
 -> Animations<br>
 -> Service<br>
 -> Routing<br>
@@ -10,7 +10,7 @@ Features
 
 -> Bootstrap<br>
 -> Flexbox<br>
--> Beautiful Colored Gradients<br>
+-> <a href="https://uigradients.com/#Celestial">Beautiful Colored Gradients</a><br>
 
 -> Google Hosting (Firebase)<br>
 

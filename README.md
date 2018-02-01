@@ -8,7 +8,7 @@ Features<br>
 -> Two-way Binding<br>
 -> Event Binding<br>
 
--> Adaptive Design
+-> Adaptive Design<br>
 -> <a href="https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/">Bootstrap 4</a><br>
 -> <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Flexbox</a><br>
 -> <a href="https://uigradients.com/#Celestial">Beautiful Colored Gradients</a><br>

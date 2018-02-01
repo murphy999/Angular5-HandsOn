@@ -1,0 +1,25 @@
+<ol class="breadcrumb">
+    <li>
+      <a routerLink="/dashboard">Dashboard</a>
+    </li>
+    <!--<img src="assets/basic-muscle.jpg" alt="Muscle Anatomy"> -->
+ </ol>
+  
+<div class="row">
+  <div class="col-md-4 col-xs-12" *ngFor="let excercise of excercises">
+    <div class="card">
+        <div class="card-content">
+		    <div class="card-header-blue">
+               <h1 class="card-heading" (click)="onSelect(excercise)">{{excercise.day | uppercase}}</h1>
+            </div>	 
+            <div class="card-body" *ngIf="selectedExcercise">
+			  <a routerLink="/excercises/{{excercise.day}}">
+               <ul class="card-p"> 
+			     <li>{{excercise.info[0].bodyPart}}</li>
+                 <li>{{excercise.info[1]?.bodyPart}}</li>				 
+			   </ul></a>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>

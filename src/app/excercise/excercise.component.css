@@ -1,0 +1,21 @@
+.btn3d {
+    transition:all .08s linear;
+    position:relative;
+    outline:medium none;
+    -moz-outline-style:none;
+    margin-right:10px;
+    margin-top:15px;
+}
+.btn3d:focus {
+    -moz-outline-style:none;
+     outline:medium none;
+}
+.btn3d:active {
+    top:9px;
+}
+.breadcrumb>li+li:before{
+	content: none; }
+
+ img{
+    height: 45vh;
+ }   
